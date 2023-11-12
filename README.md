@@ -1,4 +1,4 @@
-# Diwali Wishes
+<!--# Diwali Wishes
 
 ![Diwali Wishes](https://user-images.githubusercontent.com/51280276/147372203-0709154d-3c82-461a-af83-0883e71d2517.png)
 
@@ -23,3 +23,4 @@
 </p>
 
 <br><br>
+-->
